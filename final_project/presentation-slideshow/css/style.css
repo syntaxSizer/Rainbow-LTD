@@ -550,3 +550,16 @@ no-js
 .no-js .sub-nav {
   display: none;
 }
+
+#about {
+    text-align: center;
+    margin: 23px;
+}
+
+#abt {
+    width: 40%
+    padding: 2px;
+    float: right;
+    font-family:Roboto;
+    color: black;
+}
