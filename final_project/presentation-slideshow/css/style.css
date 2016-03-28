@@ -563,3 +563,10 @@ no-js
     font-family:Roboto;
     color: black;
 }
+
+#social {
+    float: right;
+}
+#social a{
+    padding: 8px;
+}
